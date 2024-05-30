@@ -1182,8 +1182,8 @@ def main():
     if prompt_user("Do you want to execute discover_operating_systems?"):
         discover_operating_systems(args)
 
-    if prompt_user("Do you want to execute fixingMislabeledIssue?"):
-        fixingMislabeledIssue(args)
+    # if prompt_user("Do you want to execute fixingMislabeledIssue?"):
+    #     fixingMislabeledIssue(args)
 
     # Merge datasets at the end
     if prompt_user("Do you want to execute merge_datasets?"):
