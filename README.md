@@ -1,6 +1,5 @@
-
-
-**TI-NERmerger: Semi-automated Framework for Integrating NER Datasets in Cybersecurity**
+# TI-NERmerger
+Paper title **TI-NERmerger: Semi-automated Framework for Integrating NER Datasets in Cybersecurity**
 
 We recommend reading the case study in Section 5 to understand how the framework works.
 
