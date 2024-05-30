@@ -12,6 +12,8 @@ Paper title **TI-NERmerger: Semi-automated Framework for Integrating NER Dataset
 - Sample datasets 1 and 2 are provided for testing before applying the tool to large datasets.
 
 - Run the code as follows:
+ 
 **python TI-NERmerger.py BIOES dataset1.txt dataset2.txt merged_datasets.txt**
-Which means the user wants to merge dataset1 and dataset2 into a single NER dataset called merged_datasets using BIOES tagging.
+  
+This means the user wants to merge dataset1 and dataset2 into a single NER dataset called merged_datasets using BIOES tagging.
 
