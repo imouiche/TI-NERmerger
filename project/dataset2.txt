@@ -1,0 +1,23 @@
+Aquatic B-APT
+Panda E-APT
+leverages O
+Cobalt B-MAL
+strike E-MAL
+, O
+LaZagne B-TOOL
+, O
+and O
+njRAT B-MAL
+to O
+target O
+military B-IDTY
+industries E-IDTY
+in O
+Hong B-LOC
+Kong E-LOC
+and O
+exfiltrate B-ACT
+ data E-ACT
+over O
+0.0.0.0 B-IP
+address
