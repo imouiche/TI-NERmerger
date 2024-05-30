@@ -17,3 +17,5 @@ Paper title **TI-NERmerger: Semi-automated Framework for Integrating NER Dataset
   
 This means the user wants to merge dataset1 and dataset2 into a single NER dataset called merged_datasets using BIOES tagging.
 
+- We will provide a video presentation, including code execution, to facilitate comprehension.
+
