@@ -1,4 +1,4 @@
-# TI-NERmerger
+# TI-NERmergerV1 and TI-NERmergerV2
 Paper title **TI-NERmerger: Semi-automated Framework for Integrating NER Datasets in Cybersecurity**
 
 - We recommend reading the paper and the case study in Section 5 to understand the full functionality of the framework. Also, cite the paper if you use any part of our framework or the curated datasets.
@@ -14,6 +14,8 @@ Paper title **TI-NERmerger: Semi-automated Framework for Integrating NER Dataset
 - Run the code as follows:
  
 **python TI-NERmerger.py BIOES dataset1.txt dataset2.txt merged_datasets.txt**
+
+**python TI-NERmergerV2.py BIOES dataset1.txt dataset2.txt merged_datasets.txt**
   
 This means the user wants to merge dataset1 and dataset2 into a single NER dataset called merged_datasets using BIOES tagging.
 
