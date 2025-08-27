@@ -1,0 +1,3 @@
+rapidfuzz
+stix2
+pandas
